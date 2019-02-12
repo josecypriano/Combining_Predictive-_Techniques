@@ -32,15 +32,14 @@ Com base nos números gerados pela ferramenta K-Centroids Cluster Analysis, temo
 Analisando os resultados do total de vendas e das categorias com maior representatividade dentro dos nossos dados (Grocery, Merchandise & Produce) percebemos, conforme gráficos abaixo, que o Cluster 1 tem maior representatividade no Total Sales, Grocery & Merchandise, enquanto o Cluster 2 se mostra maior para a categoria Produce. O Cluster 3 se mostra mais flat sem muita variação dentro do próprio range, ou seja, as lojas são muito parecidas em questões de vendas.
 
 
-![image](https://user-images.githubusercontent.com/34245933/52661679-b165b080-2ee9-11e9-967d-7398986182f5.png)  
-*Figura 5: Sales Map by Store & Cluster in Tableau*
-
-
-https://public.tableau.com/profile/jose.cypriano.de.oliveira.junior#!/
-
-
-
 
 ![image](https://user-images.githubusercontent.com/34245933/52661591-8bd8a700-2ee9-11e9-969b-fe00f06c130a.png)  
 *Figura 4: Sales Category Plot in Tableau*
 
+
+![image](https://user-images.githubusercontent.com/34245933/52661679-b165b080-2ee9-11e9-967d-7398986182f5.png)  
+*Figura 5: Sales Map by Store & Cluster in Tableau*
+
+
+
+https://public.tableau.com/profile/jose.cypriano.de.oliveira.junior#!/
